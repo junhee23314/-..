@@ -4,7 +4,7 @@
 
 
 
-![영상1]()
+![영상1](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/%EC%98%81%EC%83%811.gif)
 ### 코드 내용 설명
 
 #### HTML 코드
