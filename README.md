@@ -1,10 +1,13 @@
 [HTML, CSS] 자신만의 반응형 웹페이지 만들기 
 
-
-
-
-
 ![영상1](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/%EC%98%81%EC%83%811.gif)
+
+주제는 "대한민국을 알리자!"로 대한민국의 아름다운 전통과 상징등을 알려주는 반응형웹페이지를 만들었다.![ClipWindowsGIF](https://github.com/junhee23314/Let-s-promote-Korea/assets/127848243/8269a124-68b8-44c5-94d6-1b3f103f0c89)
+
+
+
+
+
 ### 코드 내용 설명
 
 #### HTML 코드
