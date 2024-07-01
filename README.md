@@ -23,8 +23,7 @@
    - 텍스트 상자를 통해 대한민국의 국기 정보를 제공.
    - 원형 이미지를 통해 대한민국을 상징하는 이미지 제공.
    - 배경 이미지와 정보 상자를 통해 다양한 대한민국 문화 요소 소개.
-<img src="https://github.com/junhee23314/Let-s-promote-Korea/assets/127848243/9e852b37-4496-4ef1-9865-d92b33ef4686
-">
+<img src="https://github.com/junhee23314/Let-s-promote-Korea/assets/127848243/9e852b37-4496-4ef1-9865-d92b33ef4686">
 #### CSS 코드
 
 1. **글로벌 스타일**:
