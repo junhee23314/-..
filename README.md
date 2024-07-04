@@ -1,8 +1,7 @@
-
-
 ## 프로젝트명
 ![영상1](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%811.gif)
 **Let's promote Korea!**
+
 주제는 "대한민국을 알리자!"로 대한민국의 아름다운 전통과 상징들을 알려주는 반응형웹페이지를 만들어보았다😊
 
 ## 프로젝트설명
