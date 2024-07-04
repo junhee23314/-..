@@ -55,16 +55,18 @@ __[텍스트 상자 & 정보 상자]__
 1. **글로벌 스타일**:
 
 
-  ```js
-function makeDeveloper(name, language) {
-  if (name === 'ONE:A' && language === 'JavaScript') {
-    return 'perfect!';
-  }
-
-  return false;
+  ```
+*{
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 400;
+  font-style: normal;
+  list-style: none;
+  text-decoration: none;
+  border-collapse: collapse;
+  margin: 0px;
+  padding: 0px;
+  color:#000;
 }
-
-makeDeveloper('ONE:A', 'JavaScript');
 ```
 
 <br>   
