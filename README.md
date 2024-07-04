@@ -3,7 +3,7 @@
 **Let's promote Korea!**
 주제는 "대한민국을 알리자!"로 대한민국의 아름다운 전통과 상징들을 알려주는 반응형웹페이지를 만들어보았다😊
 
-Language: `<html>`, `<css>`
+Language: `html` `css`
 ## 프로젝트설명
 
 ### 코드 내용 설명
