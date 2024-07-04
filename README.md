@@ -37,7 +37,7 @@ Language: `html`, `css`
 ![영상3](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/%EC%98%81%EC%83%813.gif)
 
 
--> 요게 html만 넣은 모습입니다😶‍🌫️
+**-> 요게 html만 넣은 모습입니다😶‍🌫️**
 
 
 ![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
