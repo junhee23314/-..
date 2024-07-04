@@ -41,6 +41,10 @@ Language: `html`, `css`
 
 
 ![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
+[1. 목표와 기능](#1-목표와-기능)
+[2. 개발 기간](#2-개발-기간)
+[3. 팀원 소개](#3-팀원-소개)
+
 #### CSS 코드
 
 1. **글로벌 스타일**:
