@@ -34,6 +34,9 @@ Language: `html`, `css`
  ![html 사진(5)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(5).png)
    - 배경 이미지와 정보 상자를 통해 다양한 대한민국 문화 요소 소개.
 ---
+![영상3](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/%EC%98%81%EC%83%813.gif)
+
+
 
 ![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
 #### CSS 코드
