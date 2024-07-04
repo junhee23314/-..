@@ -23,16 +23,16 @@ Language: `html`, `css`
     ![html 사진(2)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(2).png)
    - 상단에 대한민국을 소개하는 이미지 삽입.
    - 네비게이션 바를 통해 다양한 링크 제공.
---
+---
     ![html 사진(3)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(3).png)
    - 텍스트 상자를 통해 대한민국의 국기 정보를 제공.
---
+---
    ![html 사진(4)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(4).png)
    - 원형 이미지를 통해 대한민국을 상징하는 이미지 제공.
---
+---
  ![html 사진(5)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(5).png)
    - 배경 이미지와 정보 상자를 통해 다양한 대한민국 문화 요소 소개.
---
+---
 
 ![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
 #### CSS 코드
