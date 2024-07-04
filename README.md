@@ -71,13 +71,59 @@ __[텍스트 상자 & 정보 상자]__
 
 2. **링크 스타일**:
    - `ap` 클래스: 배경색과 텍스트 색상, 폰트 크기 설정.
+```
+.ap {
+  background-color: #FFFFE0;
+  color: darkslategray ;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+
+```
+
 
 3. **배경 이미지**:
    - `bg-image`와 `bg_image2` 클래스: 각각 다른 배경 이미지를 설정.
+```
+.bg-image{
+  background-image:url("image/뒷배경.jpg  ")
+  
+}
+
+.bg_image2{
+  background-image:url("image/뒷배경_.jpg  ")
+}
+```
 
 4. **헤더와 네비게이션**:
    - `header` 클래스: 페이지 상단의 헤더 스타일 설정.
    - `nav`와 `nav ul li a` 클래스: 네비게이션 바와 링크 스타일 설정.
+```
+.header{
+  width : 100%;
+  height : 80px;
+  background-color : blue;
+  color :#ffffff;
+  text-align : center;    
+  line-height: 80px;
+  
+}
+
+.nav{
+  width : 100%;
+  height : 40px;
+  background-color : #D8C8B2;
+  color :#ffffff;
+  line-height: 40px;
+
+}
+
+nav ul li  a{
+    float : left; padding : 0 10px;
+  
+  }     
+```
+
 
 5. **텍스트 상자**:
    - `text-box` 클래스: 국기 정보를 담는 상자의 스타일 설정.
