@@ -11,7 +11,7 @@ Language: `html`, `css`
 #### HTML 코드
 
 1. **기본 설정**:
-![css 사진(1)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/css%20%EC%82%AC%EC%A7%84(1).png)
+![html 사진(1)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(1).png)
     - `<!DOCTYPE html>`: HTML5 문서 타입을 선언.
    - `<html lang="ko">`: 문서의 언어를 한국어로 설정.
    - `<meta charset="UTF-8">`: 문서의 문자 인코딩을 UTF-8로 설정.
