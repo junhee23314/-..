@@ -18,7 +18,7 @@ Language: `html`, `css`
    - `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: 뷰포트 설정으로 반응형 웹 디자인 지원.
    - Google Fonts에서 "Nanum Myeongjo" 글꼴을 불러와 사용합니다.
 
-3. **페이지 구조**:
+2. **페이지 구조**:
 
     ![html 사진(2)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(2).png)
    - 상단에 대한민국을 소개하는 이미지 삽입.
@@ -33,6 +33,7 @@ Language: `html`, `css`
 ---
  ![html 사진(5)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(5).png)
    - 배경 이미지와 정보 상자를 통해 다양한 대한민국 문화 요소 소개.
+   - 동일하게 적성 
 ---
 ![영상3](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/%EC%98%81%EC%83%813.gif)
 
@@ -41,9 +42,13 @@ Language: `html`, `css`
 
 
 ![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
-[1. 목표와 기능](#1-목표와-기능)
-[2. 개발 기간](#2-개발-기간)
-[3. 팀원 소개](#3-팀원-소개)
+__[텍스트 상자 & 정보 상자]__
+링크를 걸어 클릭 시 해당 사이트로 이동_
+
+
+
+
+
 
 #### CSS 코드
 
