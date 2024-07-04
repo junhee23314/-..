@@ -54,8 +54,22 @@ __[텍스트 상자 & 정보 상자]__
 
 1. **글로벌 스타일**:
 
- ![css 사진(1)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/css%20%EC%82%AC%EC%A7%84(1).png)
-    - 모든 요소에 기본 폰트와 스타일 설정.
+
+  ```js
+function makeDeveloper(name, language) {
+  if (name === 'ONE:A' && language === 'JavaScript') {
+    return 'perfect!';
+  }
+
+  return false;
+}
+
+makeDeveloper('ONE:A', 'JavaScript');
+```
+
+<br>   
+    
+   - 모든 요소에 기본 폰트와 스타일 설정.
    - 리스트 스타일과 텍스트 장식을 제거하고, 여백과 패딩을 0으로 설정.
 
 
