@@ -73,7 +73,7 @@ __[텍스트 상자 & 정보 상자]__
 
 img-container 클래스: 이미지 컨테이너의 너비를 뷰포트 너비의 100%, 높이를 뷰포트 높이의 60%로 설정.
 
-2. **링크 스타일**:
+3. **링크 스타일**:
    - `ap` : 배경색과 텍스트 색상, 폰트 크기 설정.
 ```
 .ap {
@@ -86,7 +86,7 @@ img-container 클래스: 이미지 컨테이너의 너비를 뷰포트 너비의
 ```
 
 
-3. **배경 이미지**:
+4. **배경 이미지**:
    - `bg-image`와 `bg_image2` 클래스: 각각 다른 배경 이미지를 설정.
 ```
 .bg-image{
@@ -99,7 +99,7 @@ img-container 클래스: 이미지 컨테이너의 너비를 뷰포트 너비의
 }
 ```
 
-4. **헤더와 네비게이션**:
+5. **헤더와 네비게이션**:
    - `header` 클래스: 페이지 상단의 헤더 스타일 설정.
    - `nav`와 `nav ul li a` 클래스: 네비게이션 바와 링크 스타일 설정.
 ```
@@ -129,7 +129,7 @@ nav ul li  a{
 ```
 
 
-5. **텍스트 상자**:
+6. **텍스트 상자**:
    - `text-box` 클래스: 국기 정보를 담는 상자의 스타일 설정.
 ```
 .text-box {
@@ -144,13 +144,44 @@ nav ul li  a{
 
 ```
 
-6. **원형 이미지**:
+7. **원형 이미지**:
    - `circle-image`와 `profile` 클래스: 원형 이미지와 프로필 이미지 스타일 설정.
+```
+.circle-image {
+    
+    width: 150px;
+    height: 150px; 
+    border-radius: 70%;
+    overflow: hidden;
 
+  }
+.profile {
+  
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+```
 
-7. **정보 상자**:
+8. **정보 상자**:
    - `box`, `box2`, `box3`, `box4`, `box5` 클래스: 각각 다른 배경색과 스타일을 가진 정보 상자 설정.
+```
+.box{
+    
+  width: 300px;
+  background-color: #DDE7E7;
+  margin-left: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-align: center;
+   
+}
 
+--- `box2`, `box3`, `box4`, `box5`도 background-color만 바뀌고 나머지는 동일. ---
+```
 ### 핵심 내용 요약
 
 1. **HTML 기본 구조**:
