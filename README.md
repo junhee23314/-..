@@ -16,7 +16,7 @@ Language: `html`, `css`
    - `<html lang="ko">`: 문서의 언어를 한국어로 설정.
    - `<meta charset="UTF-8">`: 문서의 문자 인코딩을 UTF-8로 설정.
    - `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: 뷰포트 설정으로 반응형 웹 디자인 지원.
-   - Google Fonts와 외부 CSS 파일(`style.css`)을 불러옴.
+   - Google Fonts에서 "Nanum Myeongjo" 글꼴을 불러와 사용합니다.
 
 3. **페이지 구조**:
    - 상단에 대한민국을 소개하는 이미지 삽입.
