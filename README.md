@@ -195,11 +195,11 @@ nav ul li  a{
 --- `box2`, `box3`, `box4`, `box5`도 background-color만 바뀌고 나머지는 동일. ---
 ```
 ![영상1](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%811.gif)
--> 처음에 보았던것 처
+-> 처음에 보았던것 처럼 html에 css 입힌모습
 
 
-![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
 __[텍스트 상자 & 정보 상자]__
+![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
 링크를 걸어 클릭 시 해당 사이트로 이동.
 
 ### 핵심 내용 요약
@@ -219,6 +219,17 @@ __[텍스트 상자 & 정보 상자]__
 
 ### 소감 및 느낀 점
 ![ClipWindowsGIF](https://github.com/junhee23314/Let-s-promote-Korea/assets/127848243/8269a124-68b8-44c5-94d6-1b3f103f0c89)
+
+확실히 처음 계획을 짜고 만들다보니 어떻게 만들어야 하지 하다가
+일단 만들었는데 생각보다 휠씬 더 못나오고 구려서 조금 속상했다.
+첫 완성작이라고 땅땅땅! 올렸는데  반응형웹페이지 아닌걸 감지 하고
+어떡하지 어떡하지 고민하다가 겨우 첫 완성적을 올릴수 있게 되었다...
+
+어려웠던 점은 동그라미 이미지(태극기 이미지)와 텍스트 상자가 서로 서로 너무
+안 친해져서 결국 포기하였다.
+결론은 위치를 지정해주는게 아직 미숙 해서 많이 어려웠다.
+
+배운점은 
 
 
 
