@@ -41,9 +41,7 @@ Language: `html`, `css`
 **-> 요게 html만 넣은 모습입니다😶‍🌫️**
 
 
-![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
-__[텍스트 상자 & 정보 상자]__
-링크를 걸어 클릭 시 해당 사이트로 이동_
+
 
 
 
@@ -196,6 +194,14 @@ nav ul li  a{
 
 --- `box2`, `box3`, `box4`, `box5`도 background-color만 바뀌고 나머지는 동일. ---
 ```
+![영상1](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%811.gif)
+-> 처음에 보았던것 처
+
+
+![영상2](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/%EC%98%81%EC%83%812.gif)
+__[텍스트 상자 & 정보 상자]__
+링크를 걸어 클릭 시 해당 사이트로 이동.
+
 ### 핵심 내용 요약
 
 1. **HTML 기본 구조**:
@@ -211,6 +217,7 @@ nav ul li  a{
    - 정보 상자 스타일 (다양한 배경색 사용).
 
 
+### 소감 및 느낀 점
 ![ClipWindowsGIF](https://github.com/junhee23314/Let-s-promote-Korea/assets/127848243/8269a124-68b8-44c5-94d6-1b3f103f0c89)
 
 
