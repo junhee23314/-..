@@ -11,7 +11,21 @@ Language: `html`, `css`
 #### HTML 코드
 
 1. **기본 설정**:
-![html 사진(1)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(1).png)
+
+```
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>대한민국을 알리자!</title>
+</head>
+<body>
+```  
     - `<!DOCTYPE html>`: HTML5 문서 타입을 선언.
    - `<html lang="ko">`: 문서의 언어를 한국어로 설정.
    - `<meta charset="UTF-8">`: 문서의 문자 인코딩을 UTF-8로 설정.
@@ -20,18 +34,76 @@ Language: `html`, `css`
 
 2. **페이지 구조**:
 
-    ![html 사진(2)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(2).png)
+   ```
+     <img class="img-container" src="image/표지.png" >
+   
+
+    <div class="bg-image">
+       <nav>
+    
+        <div>
+            <!-- nav 적용  -->
+            <ul class="nav">
+                <li>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Link1</a>
+                </li>
+                <li>
+                    <a href="#">Link2</a>
+                </li>
+                <li>
+                    <a href="#">Link3</a>
+                </li>
+                <li >
+                    <a href="#">Link4</a>
+                </li>
+                <li>
+                    <a href="#">Link5</a>
+                </li>
+            </ul>
+       </nav>
+   ```
    - 상단에 대한민국을 소개하는 이미지 삽입.
    - 네비게이션 바를 통해 다양한 링크 제공.
 ---
     
-![html 사진(3)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(3).png)
+```
+  <!-- 텍스트 상자 -->
+      <div style="padding: 50px;">
+
+          <div class="text-box" >
+          <h2>국기</h2>
+            <p>흰색 바탕은 밝음과 순수, 평화를 사랑하는 민족성을 나타내며, 태극 문양은 음(파란색)과 양(빨간색)의 조화를 나타낸 것으로,<br>
+            우주 만물이 음양의 조화로 인해 생명을 얻고 발전한다는 대자연의 진리를 표현해낸 것이다.</p>
+            <p><a class="ap"href="https://www.mois.go.kr/chd/sub/a05/birth/screen.do">더 자세히 알아보기✨</a></p>
+        </div>
+
+      </div> 
+```
    - 텍스트 상자를 통해 대한민국의 국기 정보를 제공.
 ---
-   ![html 사진(4)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(4).png)
+  ```
+<!-- 동그라미 이미지 -->
+    
+    <div class="circle-image">
+        <img class="profile" src="https://emojis.wiki/thumbs/emojis/south-korea.webp">
+            </div>
+```
    - 원형 이미지를 통해 대한민국을 상징하는 이미지 제공.
 ---
- ![html 사진(5)](https://github.com/junhee23314/Let-s-promote-Korea/blob/main/Let's%20promote%20Korea_%EC%9E%90%EB%A3%8C/html%20%EC%82%AC%EC%A7%84(5).png)
+```
+ <div class="bg_image2" style= "margin:30px; height: 300px; overflow-y: auto ">
+        
+        <div style="height: 200px; padding: 5px;">
+            <div class="box">
+            <h2>국화🌺</h2>   
+            
+            <p> 법률상으로는 무궁화를 국화로 인정할 근거가 없으나, 행정안전부 홈페이지에서 한국의 국화라고 명시해 두었고, 
+                1963년 제정된 나라문장에서 무궁화 형태가 반영되는 등 보편적으로 무궁화가 상징적인 꽃으로 인식된다.</p>
+                <p><a class="ap"href="https://www.mois.go.kr/chd/sub/a05/mugunghwa1/screen.do">더 자세히 알아보기✨</a></p> </div>
+```
    - 배경 이미지와 정보 상자를 통해 다양한 대한민국 문화 요소 소개.
    - 동일하게 적성 
 ---
